@@ -1,7 +1,7 @@
 <img src = "banner.gif" width ="250px" align ="right">
 
 # 🐐 Seja bem vindo ao meu GitHub!
-Sou um Desenvolvedor BackEnd, esotu iniciando agora na minha carreira e irei compartilhar meu progresso por aqui.
+Sou um Desenvolvedor BackEnd, estou iniciando agora na minha carreira e irei compartilhar meu progresso por aqui.
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas.
 - 📚 Aprendendo mais sobre o BackEnd.
